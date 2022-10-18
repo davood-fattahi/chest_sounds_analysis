@@ -1,0 +1,7 @@
+close all
+clear
+clc
+
+main_featureExtraction
+main_featRegMdlTrain
+main_getSqi
